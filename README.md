@@ -3,15 +3,9 @@
 A lightweight Chrome extension that lets you **download images and videos instantly** by simply hovering over them.
 
 
-<iframe
-  src="https://player.cloudinary.com/embed/?cloud_name=davykvetf&public_id=linkedin-video_mfov5n"
-  width="640"
-  height="360" 
-  style="height: auto; width: 100%; aspect-ratio: 640 / 360;"
-  allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
-  allowfullscreen
-  frameborder="0"
-></iframe>
+## 🎬 Demo Video
+
+[![Watch Demo](https://res.cloudinary.com/davykvetf/video/upload/so_0/linkedin-video_mfov5n.jpg)](https://player.cloudinary.com/embed/?cloud_name=davykvetf&public_id=linkedin-video_mfov5n)
 ---
 
 ## ✨ Features
