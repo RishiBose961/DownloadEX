@@ -5,7 +5,7 @@ A lightweight Chrome extension that lets you **download images and videos instan
 
 ## 🎬 Demo Video
 
-[![Watch Demo](https://res.cloudinary.com/davykvetf/video/upload/so_0/linkedin-video_mfov5n.jpg)](https://player.cloudinary.com/embed/?cloud_name=davykvetf&public_id=linkedin-video_mfov5n)
+[![▶️ Watch Demo](https://res.cloudinary.com/davykvetf/video/upload/so_0/linkedin-video_mfov5n.jpg)](https://player.cloudinary.com/embed/?cloud_name=davykvetf&public_id=linkedin-video_mfov5n)
 ---
 
 ## ✨ Features
